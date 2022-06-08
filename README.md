@@ -1,2 +1,6 @@
 # birthday-reminder-app
-simple birthday reminder app, that get data from external api 
+simple birthday reminder app, that get data from external api,
+
+
+
+forked from john-smilga
